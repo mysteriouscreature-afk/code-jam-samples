@@ -1,0 +1,29 @@
+{
+	"_base": "https://mysteriouscreature-afk.github.io/code-jam-samples/",
+	"birds": [
+		"bird-crossing.wav",
+		"birds-cairns.wav"
+	],
+	"guzheng": [
+		"guzheng1.wav",
+		"guzheng2.wav"
+	],
+        "jackwhu": [
+		"jackwhu.wav"
+	],
+        "shiretoko": [
+		"shiretoko-performance.wav"
+	],
+        "song": [
+		"song1.wav"
+	],
+        "toulouse": [
+		"toulouse-dreaming.wav"
+	],
+	"ttspoems": [
+		"emotion.wav"
+		"existing.wav"
+		"longing.wav"
+		"urgency.wav"
+	]
+}
