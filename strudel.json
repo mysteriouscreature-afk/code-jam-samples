@@ -7,5 +7,23 @@
   "guzheng": [
     "guzheng/guzheng1.wav",
     "guzheng/guzheng2.wav"
+  ],
+    "jackwhu": [
+    "jackwhu/jackwhu.wav"
+  ],
+    "shiretoko": [
+    "shiretoko/shiretoko-performance.wav"
+  ],
+    "song": [
+    "song/song1.wav"
+  ],
+    "toulouse": [
+    "toulouse/toulouse-dreaming.wav"
+  ],
+    "ttspoems": [
+    "ttspoems/emotion.wav",
+    "ttspoems/existing.wav",
+    "ttspoems/longing.wav",
+    "ttspoems/urgency.wav"
   ]
 }
