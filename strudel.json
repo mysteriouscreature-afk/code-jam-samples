@@ -1,0 +1,11 @@
+{
+  "_base": "https://mysteriouscreature-afk.github.io/code-jam-samples/",
+  "birds": [
+    "birds/bird-crossing.wav",
+    "birds/birds-cairns.wav"
+  ],
+  "guzheng": [
+    "guzheng/guzheng1.wav",
+    "guzheng/guzheng2.wav"
+  ]
+}
