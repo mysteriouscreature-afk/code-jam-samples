@@ -25,5 +25,12 @@
     "ttspoems/existing.wav",
     "ttspoems/longing.wav",
     "ttspoems/urgency.wav"
+  ],
+    "videos": [
+    "carwindow.mp4",
+    "leafdrop.mp4",
+    "pigeonorgy.mp4",
+    "pigeonsleeping.mp4",
+    "weirdhotel.mp4"
   ]
 }
