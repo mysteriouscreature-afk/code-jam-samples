@@ -18,7 +18,7 @@
     "song/song1.wav"
   ],
   "swansong": [
-    "swansong/1.wav",
+    "swansong/1.wav"
   ],
     "toulouse": [
     "toulouse/toulouse-dreaming.wav"
@@ -28,12 +28,5 @@
     "ttspoems/existing.wav",
     "ttspoems/longing.wav",
     "ttspoems/urgency.wav"
-  ],
-    "videos": [
-    "carwindow.mp4",
-    "leafdrop.mp4",
-    "pigeonorgy.mp4",
-    "pigeonsleeping.mp4",
-    "weirdhotel.mp4"
   ]
 }
