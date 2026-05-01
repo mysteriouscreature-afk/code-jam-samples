@@ -17,7 +17,7 @@
     "song": [
     "song/song1.wav"
   ],
-    "swansong": [
+  "swansong_a": [
     "swansong/1.wav",
     "swansong/2.wav",
     "swansong/3.wav",
@@ -30,7 +30,9 @@
     "swansong/10.wav",
     "swansong/11.wav",
     "swansong/12.wav",
-    "swansong/13.wav",
+    "swansong/13.wav"
+  ],
+  "swansong_b": [
     "swansong/14.wav",
     "swansong/15.wav",
     "swansong/16.wav",
@@ -43,7 +45,9 @@
     "swansong/23.wav",
     "swansong/24.wav",
     "swansong/25.wav",
-    "swansong/26.wav",
+    "swansong/26.wav"
+  ],
+  "swansong_c": [
     "swansong/27.wav",
     "swansong/28.wav",
     "swansong/29.wav",
