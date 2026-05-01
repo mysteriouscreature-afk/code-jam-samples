@@ -18,7 +18,16 @@
     "song/song1.wav"
   ],
   "swansong": [
-    "swansong/1.wav"
+    "swansong/1.wav",
+    "swansong/2.wav",
+    "swansong/3.wav",
+    "swansong/4.wav",
+    "swansong/5.wav",
+    "swansong/6.wav",
+    "swansong/7.wav",
+    "swansong/8.wav",
+    "swansong/9.wav",
+    "swansong/10.wav"
   ],
     "toulouse": [
     "toulouse/toulouse-dreaming.wav"
